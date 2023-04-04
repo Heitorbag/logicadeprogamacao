@@ -193,7 +193,6 @@ void verificaGanhou()
             }
         }
     }
-    cout<<fx;
     if(fx==90) 
     {
         ganhou=true;
